@@ -10,7 +10,7 @@ public interface NetworkingKeys {
     public static String URL_POSTER_THUMBNAIL = "http://image.tmdb.org/t/p/w185/";
 
     //API KEY
-    public static String API_KEY = "9eb452c6c6e74798bd7b31a8064cc810";
+    public static String API_KEY = "Your key here";
 
     //
     public static String GET_POPULAR_MOVIES = URL_POPULAR_MOVIES + "api_key=" + API_KEY;
